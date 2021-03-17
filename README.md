@@ -1,5 +1,2 @@
-Test GitHub
+Repository for helping Ethan with his coding projects
 
-this is a test
-    test test
-done
